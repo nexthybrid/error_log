@@ -2,8 +2,8 @@
 an error log for installing CommonRoad on Windows 10
 
 Steps taken:
-[1] create a new environment in my Anaconda Navigator called `cmRd` with Python 3.8.13;
-[1] within the `cmRd` environment, in a windows command window, use 
+1. create a new environment in my Anaconda Navigator called `cmRd` with Python 3.8.13;
+2. within the `cmRd` environment, in a windows command window, use 
 ```
 pip install commonroad-io commonroad-drivability-checker
 ```
